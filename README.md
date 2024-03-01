@@ -1,2 +1,3 @@
 # PythonExam
-This repository contains a notebook is used to answer questions of a pratical Python Exam. In this notebook, we read a csv file to create a Pandas DataFrame, and analyse the data of the DataFrame to answer different questions based on analysis performed.
+This repository contains a primary file which is a notebook used to answer questions of a pratical Python Exam. In this notebook, we read a csv file to create a Pandas DataFrame, and analyse the data of the DataFrame to answer different questions based on analysis performed, accompanied with this notebook is a database file containing agricultural data on which we aim to perform our analysis.
+The exam, crafted by ExploreAI Academy, was designed to assess the proficiency of us learners in data wrangling and performing data analysis using Python. Additionally, it aimed to evaluate our overall understanding of Python coding, particularly following the completion of the Python module lessons.
